@@ -1,15 +1,15 @@
 {
-  "name": "order-picker-app",
+  "name": "your-project-name",
   "version": "1.0.0",
+  "type": "module",  <-- დაამატეთ ეს ხაზი
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^2.0.0",
-    "svelte": "^3.59.2",
-    "vite": "^4.5.0",
-    "xlsx": "^0.18.5"
+    "@sveltejs/vite-plugin-svelte": "^...",
+    "svelte": "^...",
+    "vite": "^..."
   }
 }
